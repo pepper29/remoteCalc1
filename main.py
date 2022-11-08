@@ -1,4 +1,4 @@
-메인 코드(myCalc.py)
+# 메인 코드(myCalc.py)
 
 from add import add_func
 from mul import mul_func
